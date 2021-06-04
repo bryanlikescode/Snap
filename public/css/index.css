@@ -1,0 +1,128 @@
+#leftside {
+    background-color: #28a745;
+    height: 100vh;
+}
+
+#rightside {
+    height: 100vh;
+    background-color: whitesmoke;
+}
+
+#companyName {
+    color: whitesmoke;
+}
+
+#slogan {
+    margin-top: 25vh;
+    font-size: 48pt;
+    color: whitesmoke;
+    font-family: georgia;
+}
+
+#login {
+    margin-top: 2vh;
+}
+
+#loginHeading {
+    margin-top: 20vh;
+    color: #343a40;
+}
+
+#loginbtn {
+    justify-content: center;
+    align-content: center;
+    margin: 10px;
+    margin-left: 5vw;
+}
+.navbar-text {
+    font-size: 24pt;
+    font-family: georgia;
+}
+
+#signupbtn01 {
+    justify-content: center;
+    align-content: center;
+}
+
+#signUpUsername {
+    margin-bottom: 2vh;
+}
+
+#full_name {
+    margin-bottom: 2vh;
+}
+/* STYLING FOR MILESTONE 3 
+h1 {
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 26pt;
+    text-align: center;
+    border:30px solid #D9D9D9;
+    
+}
+
+#description {
+    font: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 10;
+    margin: 15px;
+    text-align: center;
+}
+
+#date_text {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#date_input {
+    text-align: center;
+    margin: 20px;
+    background-color: #F92C52;
+}
+
+#response {
+    text-align: center;
+}
+
+#form01 {
+    text-align: center;
+}
+body {
+    color: #444444;
+    background-color: #D9D9D9;
+    display: grid;
+    grid-template-areas: "menu" "middle" "right";
+}
+
+#right {width: 20vw; height: auto; background-color: #D9D9D9; grid-area: right;}
+
+#main {
+    width: 60vw;
+    height: 100vh;
+    grid-area: middle;
+    align-content: center;
+    background-color: #D9D9D9;
+}
+
+#sidemenu {
+    width: 20vw;
+    height: auto;
+    grid-area: menu;
+    background-color: #F92C52;
+}
+
+#sidemenu #title_days {
+    margin-top: 30px;
+}
+#sidemenu p {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-size: 14pt;
+    color: white;
+    margin: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border: 1px solid black;
+    background-image: linear-gradient(to right, #F92C52, #FC8888);;
+}*/
